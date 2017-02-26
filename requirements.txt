@@ -1,0 +1,10 @@
+click==6.7
+Flask==0.12
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==0.23
+remote-pdb==1.2.0
+simplejson==3.10.0
+uWSGI==2.0.14
+uwsgitop==0.10
+Werkzeug==0.11.15
